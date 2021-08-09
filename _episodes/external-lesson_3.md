@@ -1,5 +1,5 @@
 ---
-title: How to share your data at MRC Cognition and Brain Sciences Unit
+title: How to share your data at MRC Cognition and Brain Sciences Unit (Roni Tibon)
 teaching: 30
 exercises: 0
 duration: null
