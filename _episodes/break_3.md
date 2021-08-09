@@ -1,9 +1,10 @@
 ---
-title: Break
+title: Lunch break and imaging meeting
 teaching: null
 exercises: null
 duration: 30
-summary: Allowing participants breaks helps everyone stay alert and focused.
+summary: Participants can have lunch and receive inputs about how imaging data
+  is shared.
 questions: null
 objectives: null
 keypoints: null
