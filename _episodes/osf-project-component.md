@@ -16,3 +16,4 @@ summary: Here we explain how published papers should be reported to the MRC CBU
 ---
 > ## Discussion `30 min`
 > Please feel free to ask any questions about how to report your publications to MRC CBU.
+{: .discussion}
