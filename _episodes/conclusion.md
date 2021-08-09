@@ -12,7 +12,7 @@ dependencies: []
 originalRepository: sdparsons/ukrn-workshop
 summary: "Basic introduction about the day, and brief description of MRC
   train-the-trainer scheme "
-duration: 15
+duration: 0
 
 ---
 ## Building your plan
