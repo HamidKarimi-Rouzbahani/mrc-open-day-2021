@@ -1,20 +1,17 @@
 ---
-title: Setting up an OSF Data Component
-teaching: 2
-exercises: 13
+title: Q&A about publication notification (and confirmation of data)
+teaching: 20
+exercises: 25
 questions: []
-objectives:
-  - Have an OSF project component ready to house the data
-keypoints:
-  - We use the _test_ subdomain of the OSF because we're testing things
-  - Make a note of the data component's id - we'll need that later!
+objectives: []
+keypoints: []
 day: 1
-order: 350000
+order: 500000
 missingDependencies: []
 dependencies: []
 originalRepository: sdparsons/ukrn-workshop
-summary: We'll create a project and a data component on the OSF where we'll
-  upload our data.
+summary: Here we explain how published papers should be reported to the MRC CBU
+  and be added to the CBU database.
 
 ---
 > #### Note:
