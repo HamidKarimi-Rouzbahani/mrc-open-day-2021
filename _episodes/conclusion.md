@@ -16,6 +16,6 @@ summary: "Basic introduction about the day, and brief description of MRC
 duration: 0
 
 ---
-## Building your plan
+## Welcome and introdiuction of the MRC train the trainer scheme.
 
-In this section we will work on your own implementation plan. The purpose is to select the changes you would like to make towards sharing your data. 
+Basic introduction about the day, and brief description of MRC train-the-trainer scheme.
