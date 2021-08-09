@@ -2,7 +2,7 @@
 title: Welcome and the introduction of the MRC train-the-trainer scheme (Hamid
   Karimi-Rouzbahani)
 teaching: 15
-exercises: 0
+exercises: null
 questions: []
 objectives: []
 keypoints: []
@@ -16,7 +16,7 @@ summary: "Basic introduction about the day, and brief description of MRC
 duration: null
 
 ---
-> ## Introduction `20 min`
+> ## Introduction `15 min`
 > Basic introduction about the day, and brief description of MRC train-the-trainer scheme.
 {: .discussion}
 
