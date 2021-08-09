@@ -17,4 +17,4 @@ originalRepository: sdparsons/ukrn-workshop
 
 ---
 > ## Discussion `15 min`
-> Please feel free to ask any questions about how to report your publications to MRC CBU.
+> Please feel free to ask any questions about how to share your data at the MRC CBU.
