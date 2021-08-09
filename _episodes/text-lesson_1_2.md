@@ -1,5 +1,5 @@
 ---
-title: Research culture Part 1 (Saskia Frisby + research culture working group)
+title: Research culture Part 1 (Saskia Frisby)
 teaching: 40
 exercises: 20
 duration: null
