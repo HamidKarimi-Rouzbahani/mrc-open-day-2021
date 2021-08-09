@@ -1,6 +1,6 @@
 ---
 title: How to share your data at MRC Cognition and Brain Sciences Unit
-teaching: 15
+teaching: 30
 exercises: 0
 duration: null
 summary: What are the precedures for sharing the the data at MRC CBU
