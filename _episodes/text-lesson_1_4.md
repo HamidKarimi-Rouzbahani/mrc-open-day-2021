@@ -20,3 +20,4 @@ originalRepository: sdparsons/ukrn-workshop
 ---
 > ## Discussion `20 min`
 > Please feel free to ask any questions about research culture.
+{: .discussion}
