@@ -1,22 +1,12 @@
 ---
-title: Sharing data at MRC Cognition and Brain Sciences Unit
-teaching: 5
-exercises: 25
+title: How to share your data at MRC Cognition and Brain Sciences Unit
+teaching: 15
+exercises: 0
 duration: null
-summary: A discussion about data licensing - what kind of options are there, and
-  what are the pros and cons?
-questions:
-  - What is a license?
-  - What licenses are there?
-  - How do I choose a license?
-objectives:
-  - Understand the main issues in licensing.
-  - Know what license suits your data.
-keypoints:
-  - Licenses let you control who can do what with your work.
-  - Licenses are not a substitute for strong community norms.
-  - Using a well-known license makes it easier for users and automated systems
-    to understand and respect.
+summary: What are the precedures for sharing the the data at MRC CBU
+questions: []
+objectives: []
+keypoints: []
 is-break: null
 ukrn_wb_rules: []
 day: 1
