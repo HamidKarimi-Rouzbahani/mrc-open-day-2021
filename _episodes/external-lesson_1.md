@@ -1,5 +1,5 @@
 ---
-title: The Pros (no Cons?) of data sharing
+title: The Pros (no Cons?) of data sharing (Professor Rik Henson)
 teaching: 20
 exercises: 10
 duration: null
