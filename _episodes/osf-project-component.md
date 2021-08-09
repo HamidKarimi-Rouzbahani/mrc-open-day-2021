@@ -1,5 +1,5 @@
 ---
-title: Q&A about publication notification (and confirmation of data) (Kevin Symond)
+title: Q&A about publication notification (and confirmation of data) (Kevin Symonds)
 teaching: 20
 exercises: 25
 questions: []
