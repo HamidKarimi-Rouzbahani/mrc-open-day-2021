@@ -1,7 +1,7 @@
 ---
 title: Q&A about publication notification (and confirmation of data) (Kevin Symonds)
-teaching: 20
-exercises: 25
+teaching: 15
+exercises: 30
 questions: []
 objectives: []
 keypoints: []
