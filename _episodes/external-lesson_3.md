@@ -1,5 +1,5 @@
 ---
-title: Licenses for Data
+title: Sharing data at MRC Cognition and Brain Sciences Unit
 teaching: 5
 exercises: 25
 duration: null
