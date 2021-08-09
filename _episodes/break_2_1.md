@@ -16,4 +16,7 @@ dependencies: []
 originalRepository: sdparsons/ukrn-workshop
 
 ---
-This is a time for you to get some refreshment and clear your mind a little in preparation for the next part of the day.
+## Break 
+> This is a time for you to get some refreshment and clear your mind a little in preparation for the next part of the day.
+{: .discussion}
+
