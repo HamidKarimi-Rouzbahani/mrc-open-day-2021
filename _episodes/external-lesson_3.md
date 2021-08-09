@@ -18,3 +18,4 @@ originalRepository: sdparsons/ukrn-workshop
 ---
 > ## Discussion `10 min`
 > Please feel free to ask any questions about how to share your data at the MRC CBU.
+{: .discussion}
