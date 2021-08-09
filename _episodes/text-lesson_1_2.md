@@ -1,7 +1,7 @@
 ---
-title: Research culture (Saskia Frisby + research culture working group)
-teaching: 10
-exercises: 10
+title: Research culture Part 1 (Saskia Frisby + research culture working group)
+teaching: 40
+exercises: 20
 duration: null
 summary: Here we share our thoughts about ideal research environments and how we
   can improve the research culture.
