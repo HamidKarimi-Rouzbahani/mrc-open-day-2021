@@ -1,7 +1,7 @@
 ---
 title: Research culture Part 2 (Research Culture Working Group)
 teaching: 40
-exercises: 20
+exercises: null
 duration: null
 summary: Here we share our thoughts about ideal research environments and how we
   can improve the research culture.
@@ -18,6 +18,6 @@ dependencies: []
 originalRepository: sdparsons/ukrn-workshop
 
 ---
-> ## Discussion `20 min`
+> ## QA `20 min`
 > Please feel free to ask any questions about research culture.
 {: .discussion}
