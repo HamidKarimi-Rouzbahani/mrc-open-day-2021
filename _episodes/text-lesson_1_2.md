@@ -18,6 +18,6 @@ dependencies: []
 originalRepository: sdparsons/ukrn-workshop
 
 ---
-> ## Discussion `20 min`
+> ## QA `20 min`
 > Please feel free to ask any questions about research culture.
 {: .discussion}
