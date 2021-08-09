@@ -16,6 +16,6 @@ summary: "Basic introduction about the day, and brief description of MRC
 duration: 0
 
 ---
-## Welcome and introdiuction of the MRC train the trainer scheme.
+## Welcome and introdiuction of the MRC train-the-trainer scheme.
 
 Basic introduction about the day, and brief description of MRC train-the-trainer scheme.
