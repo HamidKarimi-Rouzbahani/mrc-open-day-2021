@@ -1,14 +1,11 @@
 ---
-title: "Welcome "
-teaching: 10
-exercises: 10
+title: Research culture Part 2 (Research Culture Working Group)
+teaching: 40
+exercises: 20
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
-questions:
-  - |-
-    What do you hope to get from this workshop
-    What concerns do you/others have about sharing your data?
+summary: Here we share our thoughts about ideal research environments and how we
+  can improve the research culture.
+questions: []
 objectives: null
 keypoints: null
 is-break: null
