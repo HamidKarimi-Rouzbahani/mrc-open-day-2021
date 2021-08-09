@@ -1,5 +1,6 @@
 ---
-title: "Welcome and the introduction of the MRC train-the-trainer scheme "
+title: Welcome and the introduction of the MRC train-the-trainer scheme (Hamid
+  Karimi-Rouzbahani)
 teaching: 15
 exercises: 0
 questions: []
