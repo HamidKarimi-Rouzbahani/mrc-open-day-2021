@@ -2,7 +2,7 @@
 title: Lunch break and imaging meeting
 teaching: null
 exercises: null
-duration: 30
+duration: 90
 summary: Participants can have lunch and receive inputs about how imaging data
   is shared.
 questions: null
