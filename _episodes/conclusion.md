@@ -16,7 +16,7 @@ summary: "Basic introduction about the day, and brief description of MRC
 duration: null
 
 ---
-> ## Welcome and introduction of the MRC train-the-trainer scheme `20 min`
+> ## Introduction `20 min`
 > Basic introduction about the day, and brief description of MRC train-the-trainer scheme.
 {: .discussion}
 
