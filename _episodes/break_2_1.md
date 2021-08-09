@@ -2,15 +2,13 @@
 title: Break
 teaching: null
 exercises: null
-duration: 10
-summary: Allowing participants breaks helps everyone stay alert and focused.
+duration: 15
+summary: ""
 questions: null
 objectives: null
 keypoints: null
 is-break: true
-ukrn_wb_rules:
-  - allow-multiple
-  - undeletable
+ukrn_wb_rules: []
 day: 1
 order: 300000
 missingDependencies: []
