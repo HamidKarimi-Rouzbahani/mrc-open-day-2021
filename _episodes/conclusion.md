@@ -1,7 +1,7 @@
 ---
 title: Welcome and the introduction of the MRC train-the-trainer scheme (Hamid
   Karimi-Rouzbahani)
-teaching: 15
+teaching: 14
 exercises: null
 questions: []
 objectives: []
