@@ -14,8 +14,8 @@ keypoints:
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
-day: 1
-order: 932032
+day: ""
+order: 100000
 missingDependencies: []
 dependencies: []
 originalRepository: angelajt-bsu/bsu-data-sharing-workshop
