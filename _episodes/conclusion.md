@@ -17,6 +17,7 @@ duration: null
 
 ---
 > ## Introduction `15 min`
+
 > Basic introduction about the day, and brief description of MRC train-the-trainer scheme.
 {: .discussion}
 
