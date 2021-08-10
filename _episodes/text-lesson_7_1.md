@@ -12,7 +12,7 @@ is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 851563
+order: 850978
 missingDependencies: []
 dependencies: []
 originalRepository: ThomasRhysEvans/ukrn-tre-opendataworkshop
