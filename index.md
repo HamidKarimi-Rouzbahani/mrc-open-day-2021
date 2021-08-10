@@ -164,7 +164,7 @@ We will use this <a href="{{ site.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
-
+{% comment %}
 {% assign pre = site.pre_survey | size %}
 {% assign post = site.post_survey | size %}
 {% if pre > 0 or post > 0 %}
@@ -180,7 +180,7 @@ We will use this <a href="{{ site.collaborative_notes }}">collaborative document
 {% endif %}
 <hr/>
 {% endif %}
-
+{% endcomment %}
 {% comment %}
 SCHEDULE
 
