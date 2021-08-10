@@ -1,9 +1,9 @@
 ---
-title: "Additional material below:"
+title: Additional Materials on Open Science
 teaching: null
 exercises: null
 duration: null
-summary: Allowing participants breaks helps everyone stay alert and focused.
+summary: Additional information about Open Science
 questions: null
 objectives: null
 keypoints: null
