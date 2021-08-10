@@ -17,3 +17,6 @@ order: 850000
 
 ---
 This is a time for you to get some refreshment and clear your mind a little in preparation for the next part of the workshop.
+Check the following link for further information:
+
+https://mjaquiery.github.io/ukrn-wb-lesson-examples/ 
