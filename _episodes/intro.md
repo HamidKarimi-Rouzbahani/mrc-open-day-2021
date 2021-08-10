@@ -1,7 +1,7 @@
 ---
 title: Introduction
-teaching: 10
-exercises: 20
+teaching: 0
+exercises: 0
 questions:
   - What is data sharing?
   - Why is data sharing important?
@@ -27,7 +27,7 @@ dependencies: []
 originalRepository: PipHoward/data-sharing-soe
 summary: A friendly welcome to the workshop, a little bit of housekeeping, and
   an overview of what we'll be doing.
-duration: 35
+duration: 0
 
 ---
 Today we will be exploring the principles and practicalities of [sharing research data](https://osf.io/wp4zu/). 
