@@ -97,11 +97,7 @@ Review your local ethical approval processes and identify where you can make com
 - Where will data be stored? De-identified data from this project will be publicly accessible from the project OSF page (osf.io/XXXX). Upon completion of data collection, the data will be saved upon my university Microsoft OneDrive and then deleted from Qualtrics. Any raw data will only be shared amongst the research team through Microsoft OneDrive where it will be password protected. 
 
 
-
-
-
-
-Check the following link for further information:
+## Check the following links for further information:
 
 https://mjaquiery.github.io/ukrn-wb-lesson-examples/
 
