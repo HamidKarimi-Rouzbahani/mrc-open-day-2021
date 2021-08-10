@@ -1,0 +1,36 @@
+---
+title: "Data Sharing: A Practical How-To"
+teaching: 20
+exercises: 20
+duration: null
+summary: In this session we're going to cover some of the practicalities around
+  how we can share data.
+questions: null
+objectives: null
+keypoints: null
+is-break: null
+ukrn_wb_rules:
+  - allow-multiple
+day: 1
+order: 851563
+missingDependencies: []
+dependencies: []
+originalRepository: ThomasRhysEvans/ukrn-tre-opendataworkshop
+
+---
+# Data Sharing: A Practical How-To
+
+In this session we're going to cover some of the practicalities around how we can share data. There's lots to cover in this session! We're going to cover some of the misconceptions with data sharing discussed earlier by talking through the following points. It'll all be practical so you'll be ready to negotiate these for any future projects.
+
+- How
+- Where
+- Licenses e.g. CC-BY
+- Raw/Processed Data
+- De-identify Data
+- Codebook
+- FAIR data principles
+- Embargo
+- Retaining original copies
+
+### Activity
+
