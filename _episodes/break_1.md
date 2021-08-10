@@ -1,5 +1,5 @@
 ---
-title: Additional Materials on Open Science
+title: "Attachment: additional materials on Open Science"
 teaching: null
 exercises: null
 duration: null
