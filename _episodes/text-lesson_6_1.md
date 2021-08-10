@@ -11,8 +11,8 @@ keypoints: null
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
-day: 1
-order: 914063
+day: ""
+order: 100000
 missingDependencies: []
 dependencies:
   - /fig/citationcomponent.png
