@@ -1,8 +1,8 @@
 ---
-title: "Borrowed components below:"
+title: "Additional material below:"
 teaching: null
 exercises: null
-duration: 30
+duration: null
 summary: Allowing participants breaks helps everyone stay alert and focused.
 questions: null
 objectives: null
