@@ -25,9 +25,6 @@ Today we will be exploring the principles and practicalities of [sharing researc
 > * The researcher (you!)
 {: .checklist}
 
-> ## Presentation: Introduction to data sharing `10 min`
-> - You can view the slides here. 
-{: .challenge}
 
 > ## What could the data be used for?
 > * **Reproducibility**: ensuring your data are consistent with the reported results.
@@ -37,15 +34,13 @@ Today we will be exploring the principles and practicalities of [sharing researc
 > * **Personal backup**: preserving access across computers and institutions.
 {: .checklist}
 
-> ## Discussion: Why share data? `10 min`
-> - Why might you want to share data?
-> - Who has shared data before?
->   - What was the experience like?
-{: .challenge}
 
-> ## Discussion: concerns about sharing data `10 min`
-> - Why might people worry about sharing data
-{: .challenge}
+
+
+
+
+
+
 
 
 
