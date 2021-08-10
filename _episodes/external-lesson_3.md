@@ -10,7 +10,7 @@ keypoints: []
 is-break: null
 ukrn_wb_rules: []
 day: 1
-order: 400000
+order: 250000
 missingDependencies: []
 dependencies: []
 originalRepository: sdparsons/ukrn-workshop
