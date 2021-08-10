@@ -12,7 +12,7 @@ is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 853907
+order: 850880
 missingDependencies: []
 dependencies:
   - /fig/citationcomponent.png
