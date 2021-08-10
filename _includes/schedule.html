@@ -37,12 +37,12 @@
     <div class="col-md-6">          <!-- Individual day column -->
         <h3>Day {{ day }}</h3>
         <table class="table table-striped schedule-table">
-           {% comment %} {% if index == 1 %}
-           {% comment %} <tr>               <!-- The first time through we want the pre_survey   -->
-           {% comment %}     <td>Before starting</td>
+           {% if index == 1 %}
+           <tr>               <!-- The first time through we want the pre_survey   -->
+               <td>Before starting</td>
            {% comment %}     <td><a href="{{ site.pre_survey }}{{ site.workshop_id }}" target="_blank">Pre-workshop survey</a></td>
-           {% comment %} </tr>
-           {% comment %} {% endif %}
+           </tr>
+           {% endif %}
             {% assign epSize = E | size %}
             {% if epSize > 0 %}
             {% for ep in E %}
@@ -82,12 +82,12 @@
                 </td>        <!-- content -->
             </tr>
             {% endif %}
-           {% comment %} {% if forloop.last %}
-           {% comment %} <tr>               <!-- The last time through we want the post_survey  -->
-           {% comment %}     <td>End</td>
+            {% if forloop.last %}
+            <tr>               <!-- The last time through we want the post_survey  -->
+                <td>End</td>
            {% comment %}     <td><a href="{{ site.post_survey }}{{ site.workshop_id }}" target="_blank">Post-workshop survey</a></td>
-           {% comment %} </tr>
-           {% comment %} {% endif %}
+            </tr>
+            {% endif %}
         </table>
     </div>
     {% if new_row == 0 or forloop.last %}
